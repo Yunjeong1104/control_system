@@ -1,3 +1,7 @@
+# 제어공학1 과제2 [Repository]
+### 2022732071 이윤정
+
+---
 <img src="https://github.com/user-attachments/assets/350395a1-e0d0-491e-adcc-8f42829730a9" width="400" height="300"/>
 github md파일 생성 후 초기 상태
 
